@@ -1,4 +1,4 @@
-Meteor Shower (Chuva de meteóros)
+Meteor Shower (Chuva de meteoros)
 
 Jogo simples desenvolvido com Python e Pygame Zero.  
 O objetivo é sobreviver ao ataque de meteoros, coletar bônus e aumentar sua pontuação.
